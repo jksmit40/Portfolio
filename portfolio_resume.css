@@ -85,7 +85,7 @@ body {
     margin: 35px 0 35px 0;   
   }
   
-  #scrollspyHeading3 {
+  #scrollspyHeading2 {
     padding: 10px;
     color:  #39AEA9;
   }
@@ -118,8 +118,15 @@ body {
     font-size: max(1.5vw, 20px);
     text-shadow: 1px 1px 5px black;
   }
+
+
+  .experience-p {
+    text-align: right;
+    font-size: max(1.5vw, 20px);
+    text-shadow: 1px 1px 5px black;
+  }
   
-  .scrollspyHeading3 {
+  .scrollspyHeading4 {
     border-bottom: 2px solid;
     border-color: #222222;
   }
@@ -168,7 +175,7 @@ body {
       linear-gradient(
         rgba(0,0,0,0.1),
         rgba(0,0,0,0.3)),
-      url("img/aurora-borealis.jpg");
+      url("portfolio_images/aurora-borealis.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -240,4 +247,14 @@ body {
     color: #16C79A;
     text-shadow: 1px 1px 5px  black;
   }
+
+  .list {
+    text-align: center;
+    list-style-position: inside;
+  }
+
+  h4{
+    color: #E5EFC1;
+  }
+
   
